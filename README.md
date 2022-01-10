@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Junggeol Lee 🙂</div>  
+# <div align="center">Hi there 👋, my name is Junggeol Lee 🙂</div>  
   
 
 - 👀 Hello !
