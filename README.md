@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ReactJS
   
 
-- 📧 E-Mail : ljg0230@gamil.com
+- 📧 E-Mail : ljg0230@gmail.com
   
 
 <br/>  
